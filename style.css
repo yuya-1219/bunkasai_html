@@ -5,7 +5,7 @@
 body {
   max-width: 1080px;
   margin: 0 auto 0 auto;
-  background-color: rgb(232, 37, 76);
+  background-image: url(imags/haikei.png);
   font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
 }
 
