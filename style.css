@@ -5,8 +5,15 @@
 body {
   max-width: 1080px;
   margin: 0 auto 0 auto;
-  background-image: url(imags/haikei.png);
+  
+  background-repeat: no-repeat;
   font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+}
+
+main {
+  height: 1500px;
+  background-image: url(imags/haikei.png);
+  background-size: cover;
 }
 
 .s1 {
