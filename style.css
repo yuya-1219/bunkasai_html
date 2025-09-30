@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1080px;
+  margin: 0 auto 0 auto;
+  background-color: rgb(232, 37, 76);
+  font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+}
+
+.s1 {
+  text-align: center;
+}
+
+#mida {
+  color:white;
+  font-size: 40px;
+  background-color: rgba(50, 248, 50, 0.748);
+}
+
+#setu {
+  color: rgb(245, 184, 28);
+  font-size: 20px;
+}
+
+.s2 {
+  text-align: center;
+}
+
+.s3 {
+  margin-top: 30px;
+  text-align: center;
+}
+
+button {
+  font-size: 30px;
+  background-color: rgb(246, 255, 70);
+  color:rgb(255, 9, 161);
+  box-shadow: 2px 4px 6px 3px rgba(0, 0, 0, 0.24);
+  border: 3px solid #000000;
+  text-align: center;
+  cursor: pointer;
+  margin: 0;
+}
+
+footer{
+  text-align: center;
+  background-color: white;
+  margin-top: 30px;
+}
+
+.rogo2{
+  margin-top: 10px;
+  width: 200px;
+}
+
+#foo {
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: bold;
+}
