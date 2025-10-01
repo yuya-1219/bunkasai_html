@@ -9,9 +9,9 @@ body {
 
 main {
   background-position: center;
-  height: 700px;
+  height: 600px;
   background-image: url(imags/haikei.png);
-  background-size: 450px;
+  background-size: 400px;
   background-repeat: no-repeat;
 }
 
