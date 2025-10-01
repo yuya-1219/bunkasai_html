@@ -9,9 +9,9 @@ body {
 
 main {
   background-position: center;
-  height: 500px;
+  height: 550px;
   background-image: url(imags/haikei.png);
-  background-size: 350px;
+  background-size: 370px;
   background-repeat: no-repeat;
 }
 
@@ -44,7 +44,7 @@ button {
   text-align: center;
   cursor: pointer;
   position: relative;
-  top: 170px;
+  top: 180px;
 }
 
 button img {
