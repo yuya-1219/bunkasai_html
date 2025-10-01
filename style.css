@@ -9,7 +9,7 @@ body {
 
 main {
   background-position: center;
-  height: 600px;
+  height: 700px;
   background-image: url(imags/haikei.png);
   background-size: 500PX;
   background-repeat: no-repeat;
@@ -49,22 +49,4 @@ button {
 
 button img {
   margin: 0;
-}
-
-footer{
-  text-align: center;
-  background-color: white;
-  margin-top: 30px;
-}
-
-.rogo2{
-  margin-top: 10px;
-  width: 200px;
-}
-
-#foo {
-  margin-top: 20px;
-  margin-bottom: 0;
-  font-size: 14px;
-  font-weight: bold;
 }
