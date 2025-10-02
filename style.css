@@ -7,7 +7,7 @@ body {
   margin: 0 auto 0 auto;
 }
 
-main {
+#main {
   background-position: center;
   height: 550px;
   background-image: url(imags/haikei.png);
@@ -15,29 +15,14 @@ main {
   background-repeat: no-repeat;
 }
 
-.s1 {
-  text-align: center;
+#sabu {
+  background-position: center;
+  height: 550px;
+  /* background-image: url(imags/poruko.png); */
+  background-size: 370px;
+  background-repeat: no-repeat;
 }
 
-#mida {
-  color:white;
-  font-size: 40px;
-  background-color: rgba(50, 248, 50, 0.748);
-}
-
-#setu {
-  color: rgb(245, 184, 28);
-  font-size: 20px;
-}
-
-.s2 {
-  text-align: center;
-}
-
-.s3 {
-  margin-top: 30px;
-  text-align: center;
-}
 
 button {
   border-radius: 30px;
@@ -45,8 +30,15 @@ button {
   cursor: pointer;
   position: relative;
   top: 180px;
+  left: 325px;
 }
 
 button img {
   margin: 0;
+}
+
+#return {
+  position: relative;
+  top: 0;
+  left: 550px;
 }
