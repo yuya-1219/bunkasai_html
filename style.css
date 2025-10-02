@@ -24,7 +24,7 @@ body {
 }
 
 
-button {
+.btn {
   border-radius: 30px;
   text-align: center;
   cursor: pointer;
@@ -33,7 +33,7 @@ button {
   left: 125px;
 }
 
-button img {
+.btn img {
   margin: 0;
 }
 
@@ -41,4 +41,10 @@ button img {
   position: relative;
   top: 0;
   left: 200px;
+  padding: 0;
+}
+
+#return img{
+  width: 30px;
+  height: 30px;
 }
