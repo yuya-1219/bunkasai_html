@@ -1,6 +1,6 @@
 const imags = [
-  'url(imags/poruko.png)',
-  'url(imags/haikei.png)'
+  'url(imags/はじめから完璧なんか期待しちゃいけない。.png)',
+  'url(imags/見ると聞くとは大違いさ。でもオレはやるよ。.png)',
 ];
 
 const randomIndex = Math.floor(Math.random() * imags.length);
