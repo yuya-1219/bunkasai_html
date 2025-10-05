@@ -38,11 +38,15 @@ body {
 #return {
   position: relative;
   top: 0;
-  left: 230px;
+  left: 260px;
   padding: 0;
 }
 
 #return img{
   width: 30px;
   height: 30px;
+}
+
+@view-transition {
+navigation: auto;
 }
