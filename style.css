@@ -23,7 +23,7 @@ body {
 }
 
 .btn {
-  border-radius: 30px;
+  border-radius: 28px;
   border-style: none;
   text-align: center;
   cursor: pointer;
@@ -33,18 +33,24 @@ body {
 }
 
 .btn img {
+  position: relative;
+  top: 1px;
   margin: 0;
 }
 
 #return {
+  border-radius: 4px;
   border-style: none;
   position: relative;
   top: 0;
-  left: 340px;
+  left: 350px;
   padding: 0;
 }
 
 #return img{
+  margin: 0;
+  position: relative;
+  top: 1.5px;
   width: 30px;
   height: 30px;
 }
