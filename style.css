@@ -18,11 +18,9 @@ body {
 #sabu {
   background-position: center;
   height: 550px;
-  /* background-image: url(imags/poruko.png); */
   background-size: 370px;
   background-repeat: no-repeat;
 }
-
 
 .btn {
   border-radius: 30px;
@@ -40,7 +38,7 @@ body {
 #return {
   position: relative;
   top: 0;
-  left: 200px;
+  left: 230px;
   padding: 0;
 }
 
