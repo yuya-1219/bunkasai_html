@@ -21,6 +21,15 @@ main  {
   background-repeat: no-repeat;
 }
 
+#omi {
+  
+  background-position: center;
+  height: 550px;
+  background-image: url(imags/onsen.png);
+  background-size: 370px;
+  background-repeat: no-repeat;
+}
+
 #sabu {
   background-position: center;
   height: 550px;
@@ -35,7 +44,7 @@ main  {
   cursor: pointer;
   position: relative;
   top: 180px;
-  left: 100px;
+  left: 39%;
 }
 
 .btn img {
@@ -49,7 +58,7 @@ main  {
   border-style: none;
   position: relative;
   top: 0;
-  left: 350px;
+  left: 69%;
   padding: 0;
 }
 
