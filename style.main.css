@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1080px;
+  margin: 0 auto 0 auto;
+}
+
+main  {
+  position: relative;
+  top: 70px;
+}
+
+#omi {
+  background-position: center;
+  height: 550px;
+  background-image: url(imags/onsen.png);
+  background-size: 370px;
+  background-repeat: no-repeat;
+}
+
+
+#nimaru {
+  margin: 0;
+  background-position: center;
+  height: 120px;
+  width: 40px;
+  background-image: url(imags/nimaru.png);
+  background-size: 45px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+  position: relative;
+  top: 80px;
+  left: 130px;
+
+}
+
+#hisigata {
+  background-position: center;
+  height: 120px;
+  width: 40px;
+  background-image: url(imags/hisigata.png);
+  background-size: 45px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+  position: relative;
+  top: 280px;
+  left: 30px;
+}
+
+#maru {
+  background-position: center;
+  height: 120px;
+  width: 40px;
+  background-image: url(imags/maru.png);
+  background-size: 45px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+  position: relative;
+  top: 280px;
+  left: 100px;
+}
+
+#sansen {
+  background-position: center;
+  height: 120px;
+  width: 40px;
+  background-image: url(imags/senn.png);
+  background-size: 45px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+  position: relative;
+  top: 280px;
+  left: 170px;
+}
+
+#sankaku {
+  background-position: center;
+  height: 120px;
+  width: 40px;
+  background-image: url(imags/sankaku.png);
+  background-size: 45px;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+  position: relative;
+  top: 80px;
+  left: 70px;
+}
+
+.add-style {
+  animation-name: move;
+  animation-duration: 2s;
+}
+
+@keyframes move {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(30px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
