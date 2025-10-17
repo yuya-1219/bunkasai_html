@@ -32,7 +32,7 @@ main  {
   border: 2px solid black;
   position: relative;
   top: 80px;
-  left: 130px;
+  left: 120px;
 
 }
 
@@ -46,7 +46,7 @@ main  {
   border: 2px solid black;
   position: relative;
   top: 280px;
-  left: 30px;
+  left: 20px;
 }
 
 #maru {
@@ -59,7 +59,7 @@ main  {
   border: 2px solid black;
   position: relative;
   top: 280px;
-  left: 100px;
+  left: 90px;
 }
 
 #sansen {
@@ -72,7 +72,7 @@ main  {
   border: 2px solid black;
   position: relative;
   top: 280px;
-  left: 170px;
+  left: 160px;
 }
 
 #sankaku {
@@ -85,7 +85,7 @@ main  {
   border: 2px solid black;
   position: relative;
   top: 80px;
-  left: 70px;
+  left: 60px;
 }
 
 .add-style {
