@@ -15,7 +15,7 @@ main  {
 #omi {
   background-position: center;
   height: 550px;
-  background-image: url(imags/himo3.png);
+  background-image: url(imags/himo4.png);
   background-size: 370px;
   background-repeat: no-repeat;
 }
@@ -59,7 +59,7 @@ main  {
   border: 2px solid black;
   position: relative;
   top: 280px;
-  left: 90px;
+  left: 40.6%;
 }
 
 #sansen {
